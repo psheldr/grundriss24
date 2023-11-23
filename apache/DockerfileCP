@@ -1,0 +1,2 @@
+FROM grundriss24-app-base:latest
+COPY ./../app /var/www/html

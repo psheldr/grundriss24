@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?><openimmo_feedback><sender><name>multiphone</name><openimmo_anid /><datum>28.09.2023</datum><makler_id /></sender><objekt><portal_unique_id />
+      <portal_obj_id />
+      <anbieter_id />
+      <oobj_id />
+      <zusatz_refnr />
+      <expose_url />
+      <vermarktungsart />
+      <bezeichnung />
+      <etage />
+      <whg_nr />
+      <strasse />
+      <ort />
+      <preis />
+      <gebot />
+      <wae />
+      <user_defined_extend />
+        <interessent>
+          <int_id /><anrede>Herr</anrede>   <vorname>Eric</vorname>   <nachname>Jones</nachname>  <firma></firma> <strasse></strasse>  <postfach />  <plz></plz>   <ort></ort>  <tel>555-555-1212</tel>   <fax></fax>   <mobil></mobil>   <email>ericjonesmyemail@gmail.com</email>    <bevorzugt>TEL</bevorzugt>
+          <wunsch>DETAIL</wunsch>
+          <anfrage>Testnotiz</anfrage>
+          <user_defined_extend>
+            <feld>
+              <name />
+              <wert />
+            </feld>
+          </user_defined_extend>
+          <user_defined_extend>
+            <feld>
+              <name />
+              <wert />
+            </feld>
+        </user_defined_extend>
+      </interessent>
+    </objekt></openimmo_feedback>

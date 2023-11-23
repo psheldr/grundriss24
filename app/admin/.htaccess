@@ -1,0 +1,12 @@
+#AuthType Basic
+#AuthName "FORBIDDEN AREA"
+#AuthUserfile "../htdocs/forbidden/.htpasswd"
+#Require valid-user
+
+Options +FollowSymLinks
+RewriteBase /grundriss24_redesign
+RewriteEngine Off
+RewriteRule ^([\w\-]+)$ index.php?action=$1 [NC]
+RewriteRule ^([\w\-]+)/?$ index.php?action=$1 [NC]
+RewriteRule ^([\w\-]+)/([\w]+)$ index.php?action=$1&page=$2 [NC]
+

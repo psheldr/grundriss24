@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?><openimmo_feedback><sender><name>multiphone</name><openimmo_anid /><datum>19.09.2023</datum><makler_id /></sender><objekt><portal_unique_id />
+      <portal_obj_id />
+      <anbieter_id />
+      <oobj_id />
+      <zusatz_refnr />
+      <expose_url />
+      <vermarktungsart />
+      <bezeichnung />
+      <etage />
+      <whg_nr />
+      <strasse />
+      <ort />
+      <preis />
+      <gebot />
+      <wae />
+      <user_defined_extend />
+        <interessent>
+          <int_id /><anrede>Herr</anrede>   <vorname>Andreas</vorname>   <nachname>Trepping</nachname>  <firma>Sachverständigenbüro Andreas Trepping</firma> <strasse>Buxacher Str. 5</strasse>  <postfach />  <plz>87700</plz>   <ort>Memmingen</ort>  <tel>083317569515</tel>   <fax></fax>   <mobil>017662445265</mobil>   <email>andreas@trepping.de</email>    <bevorzugt>TEL</bevorzugt>
+          <wunsch>DETAIL</wunsch>
+          <anfrage>Testnotiz</anfrage>
+          <user_defined_extend>
+            <feld>
+              <name />
+              <wert />
+            </feld>
+          </user_defined_extend>
+          <user_defined_extend>
+            <feld>
+              <name />
+              <wert />
+            </feld>
+        </user_defined_extend>
+      </interessent>
+    </objekt></openimmo_feedback>

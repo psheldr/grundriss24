@@ -1,0 +1,205 @@
+* {
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 50px;
+}
+h2 {
+    font-size: 16px;
+    color: #F79100;
+}
+h3 {
+    font-size: 12px;
+    color: #00347A;
+    margin: 10px 0px;
+}
+p {
+    font-size: 12px;
+    color: #00347A;
+    margin: 10px 0px;
+}
+a {
+    font-size: 12px;
+    color: #F79100;
+}
+.fett_input {
+    font-size: 12px;
+    color: #00347A;
+    font-weight: bold;
+}
+.clear_box {
+    clear: both;
+}
+
+.input_submits {
+    font-size: 12px;
+    color: #00347A;
+    font-weight: bold;
+    margin: 5px 0px;
+}
+#suche_box {
+    width: 990px;
+    border: 1px solid #00347A;
+    padding: 0px 10px 10px 10px;
+}
+#suche_box input {
+}
+.search_inputs {
+    width: 255px;
+}
+.search_btns {
+    font-size: 12px;
+    font-weight: bold;
+    color: #00347A;
+    margin-top: 5px;
+    width: 260px;
+}
+.such_box_sub {
+    float: left;
+    border: 1px solid #F79100;
+    background: #ddd;
+    padding: 10px;
+    margin-right: 10px;
+}
+.liste_tbl, .liste_tbl table, .liste_tbl_angebot, .liste_tbl_angebot table {
+    font-size: 12px;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.liste_tbl, .liste_tbl_angebot {
+    margin: 10px;
+    width: 1000px;
+}
+.liste_tbl th {
+    color: #fff;
+    background: #00347A;
+    font-size: 11px;
+}
+.liste_tbl_angebot th {
+    color: #fff;
+    background: #2DBB28;
+    font-size: 11px;
+}
+.liste_tbl table {
+}
+.liste_tbl td, .liste_tbl_angebot td {
+    padding: 3px 5px;
+    border: 1px solid #999;
+    color: #00347A;
+}
+.col_1 {
+width: 35px;
+text-align: center;
+}
+.col_2 {
+}
+.col_3 {
+}
+.col_4_1 {
+    vertical-align: top;
+    width: 200px;
+}
+.col_5 {
+}
+.col_6 {
+
+}
+.col_7 {
+
+}
+.col_10 {
+width: 150px;
+}
+.col_8 {
+
+}
+.text_blau {
+    color: #00347A;
+}
+.text_grau {
+    color: #666;
+}
+
+.inner_tbl td {
+    border: none;
+}
+
+
+.fett_txt {
+    font-weight: bold;
+}
+
+
+.form_box {
+    background: #c0c0c0;
+    padding: 10px;
+    position: relative;
+}
+
+.col1 {
+    width: 300px;
+}
+.col2 {
+    width: 400px;
+}
+
+.rechnung_aktiv, .rechnung_inaktiv {
+     display: block;
+    width: 80px;
+    height: 15px;
+    border: 1px inset red;
+    padding: 2px;
+    text-decoration: none;
+}
+
+.rechnung_inaktiv {
+    color: #bbb;
+    border: 1px inset #bbb;
+   
+}
+.rechnung_inaktiv:hover {
+
+    color: #666;
+    border: 1px inset #666;
+}
+#rng_offen {
+    color: red;
+}
+#rng_bezahlt {
+    color: green;
+    border: 1px inset green;
+    font-weight: bold;
+}
+#rng_m1 {
+    color: yellow;
+    border: 1px inset yellow;
+    font-weight: bold;
+}
+#rng_m2 {
+    color: orange;
+    border: 1px inset orange;
+    font-weight: bold;
+}
+#rng_m3 {
+    color: red;
+    border: 1px inset red;
+    font-weight: bold;
+}
+
+
+.loeschkreuz {
+    margin-left: 5px;
+}
+
+.auftragsstop td {
+    border: 1px solid red;
+    color: red;
+}
+
+.auftragsstop td text_blau {
+    color: red;
+}

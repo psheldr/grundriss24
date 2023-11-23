@@ -1,0 +1,31 @@
+* {
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    padding: 8px;
+}
+#details_tbl td {
+    font-size: 12px;
+    padding: 5px;
+    vertical-align: top;
+    color: #00347A;
+}
+#details_tbl {
+    margin: 0px;
+    width: 100%;
+}
+
+.col_1_details {
+    width: 130px;
+}
+
+.col_2_details {
+}
+
+h2 {
+    font-size: 13px;
+    margin: 10px 0px 0px 10px;
+    color: #00347A;
+}
